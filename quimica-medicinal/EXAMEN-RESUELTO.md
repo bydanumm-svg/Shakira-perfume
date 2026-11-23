@@ -24,9 +24,9 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 1
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen-tema1/P1-a.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen-tema1_P1-a.jpg)
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen-tema1/P1-b.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen-tema1_P1-b.jpg)
 
 ### Respuestas correctas
 
@@ -63,9 +63,9 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P1-a.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P1-a.jpg)
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P1-b.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P1-b.jpg)
 
 ### Respuestas correctas
 
@@ -160,7 +160,7 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P2.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P2.jpg)
 
 ### Respuestas correctas
 
@@ -254,7 +254,7 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P5.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P5.jpg)
 
 ### Respuestas correctas
 
@@ -350,7 +350,7 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P6.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P6.jpg)
 
 ### Respuestas correctas
 
@@ -414,7 +414,7 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 1
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen-tema1/P7.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen-tema1_P7.jpg)
 
 ### Respuestas correctas
 
@@ -452,7 +452,7 @@ Los datos y las estructuras son casi siempre los mismos entre versiones; **lo qu
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P7.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P7.jpg)
 
 ### Respuestas correctas
 
@@ -502,7 +502,7 @@ El par didáctico: **fluoxetina** (−CF₃ en para → ISRS) vs. **nisoxetina**
 
 ## TEMA 1
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen-tema1/P8.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen-tema1_P8.jpg)
 
 ### Respuestas correctas
 
@@ -552,7 +552,7 @@ El par didáctico: **fluoxetina** (−CF₃ en para → ISRS) vs. **nisoxetina**
 
 ## TEMA 2
 
-![](/home/user/Shakira-perfume/quimica-medicinal/examen/P8.jpg)
+![](/home/user/Shakira-perfume/quimica-medicinal/.img-web/examen_P8.jpg)
 
 ### Respuestas correctas
 
